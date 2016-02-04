@@ -1,7 +1,9 @@
 # RealTimeMusicAnalyser.JS
-Describe music frequencies in real-time and catch the highest one.
+Describe music frequencies in real-time and catch the highest one
 
-No jQuery
+No jQuery, pur JS
+
+Works for all kind of extension
 
 # Use
 For personal use ONLY.
