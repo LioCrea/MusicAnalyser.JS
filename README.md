@@ -1,5 +1,7 @@
 # RealTimeMusicAnalyser.JS
-Describe music frequencies in real-time and catch the highest one
+Describe music frequencies in real-time and catch the highest one.
+
+No jQuery
 
 # Use
 For personal use ONLY.
@@ -12,5 +14,9 @@ You can try it here:
 http://liocrea.com/analyser/reader
 
 # Setup
-JS side: Copy and paste the code
+JS side:
+
+1. Copy and paste the code
+2. Change the source audio.src (line 4), ie the music you want to play
+
 HTML side: just create a canvas tag
